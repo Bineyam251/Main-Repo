@@ -21,6 +21,6 @@ This is a simple python application that calculates a user's Body Mass Index (BM
 
 1. **Clone or Download the Repository:**
   
-2.  Get on **cmd/terminal**: Then write paste the following command \
-  "git clone [https://github.com/Bineyam251/Main-Repo.git](https://github.com/Bineyam251/Main-Repo.git) \"
+2.  Get on **cmd/terminal**: Then write paste the following command \n
+  "git clone [https://github.com/Bineyam251/Main-Repo.git](https://github.com/Bineyam251/Main-Repo.git) \n"
   "cd Main-Repo"
